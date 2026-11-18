@@ -1,36 +1,30 @@
 # VIT Lost & Found Portal
 
+A collaborative web application developed to help the VIT community report, browse and recover misplaced belongings.
+
+## 🌐 Live Demo
+
+[Visit VIT Lost & Found Portal](https://lost-found-vit.netlify.app/)
 
 ## Overview
 
-The VIT Lost & Found Portal provides a centralised platform for users to post lost and found items and browse available listings, making it easier to reconnect people with their belongings.
+The VIT Lost & Found Portal provides a centralised platform for students to report lost belongings, submit found-item listings and browse available items.
 
 ## Features
 
 - Report lost belongings.
-- Post found items.
-- Browse lost and found listings.
-- View item information.
-- Organise and manage item listings.
+- Report found items.
+- Browse available listings.
+- Submit item details, including location and date.
+- Find potential matches and connect with the relevant person.
+- User login.
 
 ## Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend / Database:** Firebase Firestore
-
-## Project Structure
-
-| File | Description |
-|---|---|
-| `index.html` | Main application page |
-| `lost.html` | Lost items page |
-| `found.html` | Found items page |
-| `items.html` | Item listings |
-| `lost.js` | Lost-item functionality |
-| `found.js` | Found-item functionality |
-| `styles.css` | Application styling |
-| `firebase-config.js` | Firebase initialisation |
+- **Database:** Firebase Firestore
 
 ## Team Development
 
 This project was collaboratively developed with teammates. We worked together on the design, implementation, integration and testing of the application.
+
